@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=douglasmonteirom&label=Profile%20views&color=0e75b6&style=flat" alt="douglasmonteirom" /> </p>
 
-- 🌱 Estou aprendendo atualmente **React, styled-components**
+- 🌱 Estou aprendendo atualmente **TypeScript, styled-components**
 
 - 💬 Pergunte-me sobre **React, HTML,**
 
